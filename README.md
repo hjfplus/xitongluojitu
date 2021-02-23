@@ -1,2 +1,2 @@
 # xitongluojitu
-it is test repo leran git
+it is test repo, leran git.
